@@ -1,0 +1,17 @@
+﻿<Properties DisableMonoRequiredInfoBar="True" StartupConfiguration="{B7587BCC-556C-5BDA-BC36-EC46F26191C4}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/gameManager.cs">
+    <Files>
+      <File FileName="Assets/scripts/score.cs" />
+      <File FileName="Assets/scripts/playerCollision.cs" />
+      <File FileName="Assets/scripts/gameManager.cs" Line="14" Column="43" />
+      <File FileName="Assets/scripts/playerMovement.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9978392b-dd53-492d-938c-d4820194ff43" />
+</Properties>
