@@ -16,7 +16,6 @@ public class gameManager : MonoBehaviour
     {
         if (gameHasEnded == true)
         {
-            Debug.Log("GAME OVER");
             Invoke("restart", restartDelay);  // waits 2nd param amount before calling the function (1st param)
         }
 

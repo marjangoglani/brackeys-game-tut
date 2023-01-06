@@ -15,7 +15,6 @@ public class playerCollision : MonoBehaviour
             FindObjectOfType<gameManager>().gameHasEnded = true;
             FindObjectOfType<gameManager>().endGame();
         }
-        
     }
 
 }
